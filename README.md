@@ -1,2 +1,2 @@
 # Nitro-Sniper
-Fast nitro sniper made in JavaScript.
+Fast nitro sniper made in Go.
