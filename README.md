@@ -1,2 +1,2 @@
 # Nitro-Sniper
-Discord nitro sniper made in javascript
+Fast nitro sniper made in JavaScript.
